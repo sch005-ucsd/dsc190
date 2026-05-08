@@ -5,10 +5,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-import os
-
-def foo(x,y):
-    z=x+y
-    return z
-
-#print()
